@@ -1,0 +1,19 @@
+Computer
+SOFTWARE\Policies\Microsoft\WindowsNT\Reliability
+DisableSystemRestore
+DWORD:1
+
+Computer
+SOFTWARE\Policies\Microsoft\Windows NT\SystemRestore
+DisableSR
+DWORD:1
+
+Computer
+SOFTWARE\Policies\Microsoft\WindowsStore
+RemoveWindowsStore
+DWORD:1
+
+Computer
+SOFTWARE\Policies\Microsoft\WindowsStore
+RequirePrivateStoreOnly
+DWORD:1
